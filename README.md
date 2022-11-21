@@ -87,8 +87,10 @@ sbn.heatmap(df.corr(),annot=True)
 # Checking the null values and Cleaning it
 ![image](https://user-images.githubusercontent.com/93427248/203043691-6bf73e37-a44b-4fe6-bae7-c78f666e7181.png)
 # Displaying datatypes of each features
+![image](https://user-images.githubusercontent.com/93427248/203045024-c51e8f5e-2023-4780-aae9-afdc2a312c00.png)
+
 # Multivariate Analysis - Scatterplot
-![image](https://user-images.githubusercontent.com/93427248/203043842-2586cd24-3847-499d-bf25-6211fa02f284.png)
+
 # Multivariate Analysis - Barplot
 ![image](https://user-images.githubusercontent.com/93427248/203044227-75b23d65-88c1-4429-959e-d4bca52b6a7f.png)
 
