@@ -32,9 +32,10 @@ Save the final data set into the file
 
 ## CODE
 ~~~
-Name : V A Jithendra
-Register Number : 212221230043
-
+Name : S Adithya Chowdary.
+Register Number : 212221230100.
+~~~
+~~~
 import pandas as pd
 import numpy as np
 import seaborn as sbn
@@ -79,27 +80,20 @@ sbn.heatmap(df.corr(),annot=True)
 ## OUTPUT
 
 # EDA - SuperStore.csv
-![output](https://github.com/jithendra2004/Ex-04-Multivariate-Analysis/blob/main/k1.png)
-
+![image](https://user-images.githubusercontent.com/93427248/203043312-bb047566-6ec4-4064-abeb-77d0bf5cce63.png)
 # Displaying information about Dataset
-![output](https://github.com/jithendra2004/Ex-04-Multivariate-Analysis/blob/main/k2.png)
+![image](https://user-images.githubusercontent.com/93427248/203043656-83c6b4e1-d2cd-43e4-9217-b104e627c5b9.png)
 
 # Checking the null values and Cleaning it
-![output](https://github.com/jithendra2004/Ex-04-Multivariate-Analysis/blob/main/k3.png)
-
+![image](https://user-images.githubusercontent.com/93427248/203043691-6bf73e37-a44b-4fe6-bae7-c78f666e7181.png)
 # Displaying datatypes of each features
-![output](https://github.com/jithendra2004/Ex-04-Multivariate-Analysis/blob/main/k4.png)
-
 # Multivariate Analysis - Scatterplot
-![output](https://github.com/jithendra2004/Ex-04-Multivariate-Analysis/blob/main/k5.png)
-
+![image](https://user-images.githubusercontent.com/93427248/203043842-2586cd24-3847-499d-bf25-6211fa02f284.png)
 # Multivariate Analysis - Barplot
-![output](https://github.com/jithendra2004/Ex-04-Multivariate-Analysis/blob/main/k6.png)
-![output](https://github.com/jithendra2004/Ex-04-Multivariate-Analysis/blob/main/k7.png)
-![output](https://github.com/jithendra2004/Ex-04-Multivariate-Analysis/blob/main/k8.png)
+![image](https://user-images.githubusercontent.com/93427248/203044227-75b23d65-88c1-4429-959e-d4bca52b6a7f.png)
+
 
 # Correlation Coefficient Interpretation using HeatMap
-![output](https://github.com/jithendra2004/Ex-04-Multivariate-Analysis/blob/main/k9.png)
 
 ## RESULT
 Thus the program to perform EDA on the given data set is successfully executed.
