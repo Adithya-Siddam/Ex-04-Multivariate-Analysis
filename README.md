@@ -90,12 +90,17 @@ sbn.heatmap(df.corr(),annot=True)
 ![image](https://user-images.githubusercontent.com/93427248/203045024-c51e8f5e-2023-4780-aae9-afdc2a312c00.png)
 
 # Multivariate Analysis - Scatterplot
+![image](https://user-images.githubusercontent.com/93427248/203047659-1a765939-5db1-4718-98a1-22c6ece26aed.png)
+
 
 # Multivariate Analysis - Barplot
 ![image](https://user-images.githubusercontent.com/93427248/203044227-75b23d65-88c1-4429-959e-d4bca52b6a7f.png)
 
+![image](https://user-images.githubusercontent.com/93427248/203047557-f4245f3a-488d-4d2d-9fe5-54aa2431c09a.png)
+
 
 # Correlation Coefficient Interpretation using HeatMap
+![image](https://user-images.githubusercontent.com/93427248/203047616-363c4fda-40e9-4674-ac79-51deb74bf986.png)
 
 ## RESULT
 Thus the program to perform EDA on the given data set is successfully executed.
